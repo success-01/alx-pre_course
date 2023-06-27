@@ -1,1 +1,2 @@
-Soon to be Software Engineer
+ALX student
+
