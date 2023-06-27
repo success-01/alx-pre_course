@@ -1,1 +1,1 @@
-My first readme
+Soon to be Software Engineer
